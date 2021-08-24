@@ -1,0 +1,3 @@
+- 👋 Olá, sou Rafael
+- 🌱 Atualmente estou aprendendo .NET core 
+- 📫 rps90@outlook.com
