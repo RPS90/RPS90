@@ -37,8 +37,8 @@
 ----
 ## ⭐ GitHub:
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=banguelajpg&theme=chartreuse-dark&show_icons=true)
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=banguelajpg&theme=chartreuse-dark&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rps90&theme=chartreuse-dark&show_icons=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rps90&theme=chartreuse-dark&show_icons=true)
 
 
 <!--
