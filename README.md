@@ -3,11 +3,11 @@
 # Rafael Pereira
 ## 👋 Olá 
 - 👯  Formado em Gestão em Tecnologia da Informação, pela FATEC Itaqua em 2019.
-- 🔭  Atualmente trabalho com .NET, convertendo sistemas legado para novas tecnologias, adaptando visualmente e replicando toda regra de negócio.
+- 🔭  Atualmente trabalho com .NET, convertendo sistemas legado para web, adaptando visualmente e replicando toda regra de negócio.
 - 🌱  Busco aprender mais sobre .NET, arquitetura e padronização de código.
 - ⚡   Gosto de criar e usar minhas próprias ferramentas para ajudar no meu dia-a-dia.
-- 💬  Minha linguagem de programação principal é C#
-- 📫  55 11 991902958
+- 💬  Minha linguagem de programação favorita é C#
+- 📫  Caso interessar, meu contato é: (11) 991902958
 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rafabanguela)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafael-pereira-679419127/) 
