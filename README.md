@@ -2,7 +2,7 @@
 
 # Rafael Pereira
 ## 👋 Olá 
-- 👯  Formado em Gestão em Tecnologia da Informação, Fatec
+- 👯  Formado em Gestão em Tecnologia da Informação, pela FATEC Itaqua em 2019.
 - 🔭  Atualmente trabalho com .NET, convertendo sistemas legado para novas tecnologias, adaptando visualmente e replicando toda regra de negócio.
 - 🌱  Busco aprender mais sobre .NET, arquitetura e padronização de código.
 - ⚡   Gosto de criar e usar minhas próprias ferramentas para ajudar no meu dia-a-dia.
@@ -40,7 +40,7 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rps90&theme=chartreuse-dark&show_icons=true)
 ![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rps90&theme=chartreuse-dark&show_icons=true)
 
-
+(Obrigado! professores LOBO, ALMIR e VASCONCELOS)
 <!--
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/chiquinelli) 
 
