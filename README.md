@@ -16,7 +16,6 @@
 
 ##  :sweat_drops:  Skills
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/> html</code>
-<code><img height="30" src="https://github.com/banguelajpg/banguelajpg/blob/main/icones/css.gif" alt="CSS"/> css</code>
 <code><img height="30" src="https://github.com/banguelajpg/banguelajpg/blob/main/icones/javascript.png" alt="Javascript"/> javascript</code>
 <code><img height="30" src="https://github.com/banguelajpg/banguelajpg/blob/main/icones/jquery.png" alt="jQuery"/> jQuery</code>
 <code><img height="30" src="https://github.com/banguelajpg/banguelajpg/blob/main/icones/kanban.png" alt="kanban"/> kanban</code>
